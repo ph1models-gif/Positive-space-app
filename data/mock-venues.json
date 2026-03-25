@@ -1,0 +1,178 @@
+[
+  {
+    "name": "The Oma Shop II",
+    "address": "2754 Frederick Douglass Blvd, New York, NY 10039",
+    "lat": 40.8250,
+    "lng": -73.9375,
+    "type": "coffee shop",
+    "perks": ["free community coffee events", "half-price pastries on weekdays"],
+    "amenities": ["wifi", "seating", "barbershop", "event space"],
+    "price": "free for users",
+    "photos": ["https://example.com/oma-shop-photo.jpg"]
+  },
+  {
+    "name": "La Cabra East Village",
+    "address": "152 2nd Ave, New York, NY 10003",
+    "lat": 40.7295,
+    "lng": -73.9870,
+    "type": "coffee shop",
+    "perks": ["free cardamom bun with purchase", "loyalty program discounts"],
+    "amenities": ["outdoor seating", "pastries", "roastery tours"],
+    "price": "free for users",
+    "photos": ["https://example.com/la-cabra-photo.jpg"]
+  },
+  {
+    "name": "Not As Bitter",
+    "address": "241 E 10th St, New York, NY 10003",
+    "lat": 40.7290,
+    "lng": -73.9850,
+    "type": "coffee shop",
+    "perks": ["free fruit-infused matcha sample", "half-price lattes after 3pm"],
+    "amenities": ["minimalist decor", "specialty drinks", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/not-as-bitter-photo.jpg"]
+  },
+  {
+    "name": "Sey Coffee",
+    "address": "18 Grattan St, Brooklyn, NY 11206",
+    "lat": 40.7050,
+    "lng": -73.9320,
+    "type": "coffee shop",
+    "perks": ["free cupping sessions", "discount on light roast beans"],
+    "amenities": ["in-house roasting", "garage door patio", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/sey-coffee-photo.jpg"]
+  },
+  {
+    "name": "Lips Cafe",
+    "address": "1412 Nostrand Ave, Brooklyn, NY 11226",
+    "lat": 40.6520,
+    "lng": -73.9500,
+    "type": "cafe",
+    "perks": ["free community events", "half-price Caribbean bites"],
+    "amenities": ["art shows", "music nights", "outdoor seating"],
+    "price": "free for users",
+    "photos": ["https://example.com/lips-cafe-photo.jpg"]
+  },
+  {
+    "name": "Felix Roasting Co.",
+    "address": "450 Park Ave S, New York, NY 10016",
+    "lat": 40.7450,
+    "lng": -73.9820,
+    "type": "coffee shop",
+    "perks": ["free s'mores latte tasting", "discount on espresso tonics"],
+    "amenities": ["luxury interiors", "specialty lattes", "pastries"],
+    "price": "free for users",
+    "photos": ["https://example.com/felix-roasting-photo.jpg"]
+  },
+  {
+    "name": "Devoción",
+    "address": "69 Grand St, Brooklyn, NY 11249",
+    "lat": 40.7118,
+    "lng": -73.9650,
+    "type": "coffee shop",
+    "perks": ["free Colombian coffee sample", "half-price beans purchase"],
+    "amenities": ["tropical decor", "plant-filled space", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/devocion-photo.jpg"]
+  },
+  {
+    "name": "Abraço",
+    "address": "81 E 7th St, New York, NY 10003",
+    "lat": 40.7270,
+    "lng": -73.9860,
+    "type": "coffee shop",
+    "perks": ["free olive oil cake slice with coffee", "loyalty perks"],
+    "amenities": ["cozy atmosphere", "pour-over coffee", "pastries"],
+    "price": "free for users",
+    "photos": ["https://example.com/abraco-photo.jpg"]
+  },
+  {
+    "name": "WatchHouse",
+    "address": "660 5th Ave, New York, NY 10103",
+    "lat": 40.7590,
+    "lng": -73.9760,
+    "type": "coffee shop",
+    "perks": ["free rare bean tasting", "half-price pastries"],
+    "amenities": ["modern design", "specialty brews", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/watchhouse-photo.jpg"]
+  },
+  {
+    "name": "MUD",
+    "address": "307 E 9th St, New York, NY 10003",
+    "lat": 40.7290,
+    "lng": -73.9860,
+    "type": "cafe",
+    "perks": ["free all-day brunch deal", "discount on mimosas"],
+    "amenities": ["back patio", "brunch menu", "cocktails"],
+    "price": "free for users",
+    "photos": ["https://example.com/mud-photo.jpg"]
+  },
+  {
+    "name": "Winner Bakery",
+    "address": "367 7th Ave, Brooklyn, NY 11215",
+    "lat": 40.6650,
+    "lng": -73.9810,
+    "type": "bakery cafe",
+    "perks": ["free croissant with coffee", "half-price sandwiches"],
+    "amenities": ["fresh baked goods", "outdoor seating", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/winner-photo.jpg"]
+  },
+  {
+    "name": "Che Cafe",
+    "address": "302 Malcolm X Blvd, Brooklyn, NY 11233",
+    "lat": 40.6840,
+    "lng": -73.9290,
+    "type": "cafe",
+    "perks": ["free egg sandwich upgrade", "natural wine discounts"],
+    "amenities": ["cocktails", "brunch", "cozy vibe"],
+    "price": "free for users",
+    "photos": ["https://example.com/che-photo.jpg"]
+  },
+  {
+    "name": "Hi-Collar",
+    "address": "231 E 9th St, New York, NY 10003",
+    "lat": 40.7295,
+    "lng": -73.9875,
+    "type": "cafe",
+    "perks": ["free siphon brew sample", "half-price omurice"],
+    "amenities": ["Japanese style", "cocktails at night", "rock garden"],
+    "price": "free for users",
+    "photos": ["https://example.com/hi-collar-photo.jpg"]
+  },
+  {
+    "name": "Casasalvo",
+    "address": "158 W 72nd St, New York, NY 10023",
+    "lat": 40.7780,
+    "lng": -73.9800,
+    "type": "cafe",
+    "perks": ["free espresso", "discount on cannoli"],
+    "amenities": ["Italian pantry goods", "pastries", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/casasalvo-photo.jpg"]
+  },
+  {
+    "name": "Topos Bookstore Cafe",
+    "address": "788 Woodward Ave, Ridgewood, NY 11385",
+    "lat": 40.7030,
+    "lng": -73.9020,
+    "type": "bookstore cafe",
+    "perks": ["free book browsing with coffee", "half-price used books"],
+    "amenities": ["books", "vintage decor", "wifi"],
+    "price": "free for users",
+    "photos": ["https://example.com/topos-photo.jpg"]
+  },
+  {
+    "name": "Ninth Street Espresso",
+    "address": "700 E 9th St, New York, NY 10009",
+    "lat": 40.7250,
+    "lng": -73.9780,
+    "type": "coffee shop",
+    "perks": ["free refill on drip coffee", "loyalty discounts"],
+    "amenities": ["simple menu", "espresso focus", "seating"],
+    "price": "free for users",
+    "photos": ["https://example.com/ninth-street-photo.jpg"]
+  }
+]
