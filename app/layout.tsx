@@ -1,4 +1,5 @@
-export const metadata = {
+import './globals.css'
+  export const metadata = {
   title: 'Positive Space',
   description: 'NYC Co-working Space Booking App',
 };
